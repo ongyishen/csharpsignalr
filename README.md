@@ -33,12 +33,12 @@ alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box
 
 ### Web API
 
-<img src="https://github.com/ongyishen/chsarpsignalr/blob/main/img/clientapi.gif?raw=true" />
+<img src="https://github.com/ongyishen/csharpsignalr/blob/main/img/clientapi.gif?raw=true" />
 
 
 <br/>
 Please update the appsetting.json at the C# Project with your ChatHub URL
-<img src="https://github.com/ongyishen/chsarpsignalr/blob/main/img/AppSetting.png?raw=true" />
+<img src="https://github.com/ongyishen/csharpsignalr/blob/main/img/AppSetting.png?raw=true" />
 <br/>
 <br/>
 <br/>
